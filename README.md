@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RunRobDog
-- 👀 I’m interested in Gaming and programming in Rust
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Learning Web Dev
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me Discord: Run-Rob-Dog#8644
 
